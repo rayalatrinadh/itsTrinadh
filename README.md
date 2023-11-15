@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/trinadhrayala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://medium.com/@3nadhmail)">
-    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+  <a href="https://medium.com/@3nadhmail">
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
