@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/trinadhrayala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@3nadhmail">
+  <a href="https://medium.com/@trinadhrayala">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/3nadhrayala">
@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
  <div id="badges">
-<a href="https://medium.com/@3nadhmail">
+<a href="https://medium.com/@trinadhrayala">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
 <!-- BLOG-POST-LIST:END -->
 </a>
