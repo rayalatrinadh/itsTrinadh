@@ -38,11 +38,10 @@ I'm **Trinadh Rayala**, an experienced Software Engineer <img src="https://media
   - **Data & Big Data**: MySQL, MongoDB, Oracle, Kafka, Hadoop, Spark
   - **Test-Driven Development (TDD)**: Developed automated REST API tests and integrated them with CI/CD pipelines
 
--💼 I've had the opportunity to work with:
+-💼 I've had the opportunity to collaborate with:
 
-<div align="center"> <a href="![image](https://github.com/user-attachments/assets/aba12f0b-d9d5-4088-b5e9-7117fdd0c142)
-" target="_blank"> <img src="https://path_to_ccc_logo_image" alt="CCC Intelligent Solutions" width="120"/> </a> <a href="[https://www.capgemini.com/](https://www.capgemini.com/au-en/wp-content/uploads/sites/10/2023/05/Capgemini.png)" target="_blank"> <img src="[https://path_to_capgemini_logo_image](https://www.capgemini.com/au-en/wp-content/uploads/sites/10/2023/05/Capgemini.png)" alt="Capgemini" width="120"/> </a> <a href="https://www.fss.com/" target="_blank"> <img src="https://path_to_fss_logo_image" alt="FSS" width="120"/> </a> </div>
-Leading initiatives to build and deploy critical solutions, optimize system performance, and enhance user experiences. I'm passionate about applying DevOps practices to streamline workflows, reduce deployment time, and ensure product stability.
+<div align="center"> <a href="https://www.cccis.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/CCC.jpg?raw=true" title="CCC Intelligent Solutions" alt="CCC Intelligent Solutions" width="120" height="120"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.capgemini.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/Capgem.jpg?raw=true" title="Capgemini" alt="Capgemini" width="120" height="120"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.fss.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/fss.jpg?raw=true" title="FSS" alt="FSS" width="120" height="120"/> </a> </div>
+I have led initiatives to build and deploy critical solutions, optimize system performance, and enhance user experiences. I'm passionate about applying DevOps practices to streamline workflows, reduce deployment time, and ensure product stability.
 
 - 🌱 I'm also exploring **Technical Content Writing** and enjoy sharing knowledge with the community.
 
